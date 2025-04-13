@@ -12,6 +12,7 @@
     "betterdisplay"
     "notchnook"
     "obs"
+    "displaylink"
   ];
 
   homebrew.brews = [
@@ -24,4 +25,3 @@
 
   system.stateVersion = 4;
 }
-
