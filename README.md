@@ -41,6 +41,8 @@ cd nix-macos-config
 
 ```bash
 nix run github:LnL7/nix-darwin -- switch --flake .#macbook
+exec $SHELL
+darwin-rebuild switch --flake .#macbook
 ```
 
 ### Troubleshooting

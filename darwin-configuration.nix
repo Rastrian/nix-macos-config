@@ -13,6 +13,9 @@
     "notchnook"
     "obs"
     "displaylink"
+    "spotify"
+    "vial"
+    "termius"
   ];
 
   homebrew.brews = [
